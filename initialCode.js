@@ -19,6 +19,7 @@
 
 // nav.addEventListener("mouseout", handleHover.bind(1));
 
+// Menu fade
 // Get all navigation links
 const navLinks = document.querySelectorAll(".nav__link");
 const nav = document.querySelector(".nav");
