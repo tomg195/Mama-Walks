@@ -23,6 +23,13 @@ h1 {
   padding-top: 7rem;
 }
 
+.insta__logo {
+  height: 3rem;
+  width: 3rem;
+  display: flex;
+  /* padding: 1rem; */
+}
+
 /* .navigation {
   display: inline-block;
   text-align: center;
@@ -48,12 +55,23 @@ h1 {
   justify-content: space-between;
   align-items: center;
   height: 8rem;
+  width: 100%;
 }
 
 .nav__links {
   display: flex;
   align-items: center;
   list-style: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  padding: 0;
 }
 
 .nav__item {
